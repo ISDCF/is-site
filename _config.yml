@@ -3,14 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: InterSociety Digital Cinema Forum (ISDCF)
+title: Inter-Society
 subtitle: ''
 description: 'ISDCF – Intersociety Digital Cinema Forum meets about once a month to discuss technical and deployment issues for Theatrical Digital Cinema deployment. Digital Cinema Technology is our wheelhouse. We discuss DCP (Digital Cinema Package), KDM (Key Distribution Message), FLM (Facility List Management), TDL (Trusted Device List), Formatting of distribution hard disc drives, FIPS-140, DCI (Digital Cinema Initiatives), Upgrade scheduling, 3D luminance, subtitles, captions, closed captions, SMPTE specifications for digital cinema / audio and a large number of other TLA and FLA’s (three letter acronyms and four letter acronyms). About 40 people participate monthly, either in person or via conference call. Any questions please email Jerry Pierce, Chairman at info@isdcf.com.'
 language: en
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://isdcf.github.io/new-site/
+url: https://isdcf.github.io/is-site/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

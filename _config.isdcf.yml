@@ -1,0 +1,16 @@
+# ISDCF theme configuration
+
+# Short brand text shown in the top-left of the navbar (site.title is still
+# used for <title> tags and the homepage heading).
+logo: Inter-Society
+logo_url: /images/inter-society.svg
+favico: /images/favicon_IS.svg
+
+# Top navbar links, in display order.
+menu:
+  Leadership: /leadership/
+  In Memoriam: /memoriam/jerry-pierce/
+  Ken Mason Award: /ken-mason-award/
+  Activities:
+    ISDCF: https://www.isdcf.com/
+    Cinema Systems Summit 2025: /events/cinema-systems-summit/2025/
