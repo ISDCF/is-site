@@ -17,4 +17,4 @@ Previous activities include playing a major role in the implementation of cyan (
 
 ## Bylaws
 
-[Adopted, December 2023](docs/I-S-Bylaws-2023-FINAL.pdf).
+[Bylaws adopted on December 23, 2023](docs/I-S-Bylaws-2023-FINAL.pdf).
