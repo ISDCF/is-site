@@ -4,7 +4,7 @@ layout: page
 alias: cinema-systems-summit/index.html
 ---
 
-[![Cinema Systems Summit](/events/cinema-systems-summit/css-summit.png)](https://internationalcinematechnologyassociation.com/events/cinema-systems-summit/?)
+![Cinema Systems Summit](/activities/cinema-systems-summit/2025/css-summit.png)
 
 ### International Cinema Technology Association, Inter-Society, and The Cinema Foundation held the inaugural Cinema Systems Summit.
 

@@ -8,9 +8,10 @@ favico: /images/favicon_IS.svg
 
 # Top navbar links, in display order.
 menu:
+  Welcome: /
   Leadership: /leadership/
   In Memoriam: /memoriam/jerry-pierce/
   Ken Mason Award: /ken-mason-award/
   Activities:
     ISDCF: https://www.isdcf.com/
-    Cinema Systems Summit 2025: /events/cinema-systems-summit/2025/
+    Cinema Systems Summit 2025: /activities/cinema-systems-summit/2025/

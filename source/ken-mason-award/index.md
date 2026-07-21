@@ -10,25 +10,25 @@ alias: ken-mason-award/index.html
 
 #### RECIPIENTS OF THE 'KEN MASON INTER-SOCIETY AWARD'
 
-2022, Jackie Brenneman & Esther Baruh ([Press Release](/ken-mason-award/BrennemanBaruh-2022-KenMason.pdf))
+2022, Jackie Brenneman & Esther Baruh ([Press Release](./BrennemanBaruh-2022-KenMason.pdf))
 
-2020, John Fithian, NATO ([Press Release](/ken-mason-award/John-Fithian-2020-KenMason.pdf))
+2020, John Fithian, NATO ([Press Release](./John-Fithian-2020-KenMason.pdf))
 
-2019, Susie Beiersdorf, Christie ([Press Release](/ken-mason-award/Susie-Beiersdorf-2019-KenMason.pdf))
+2019, Susie Beiersdorf, Christie ([Press Release](./Susie-Beiersdorf-2019-KenMason.pdf))
 
-2018, John Wolski, Deluxe ([Press Release](/ken-mason-award/John-Wolski-2018-Ken-Mason.pdf))
+2018, John Wolski, Deluxe ([Press Release](./John-Wolski-2018-Ken-Mason.pdf))
 
-2017, Curt Behlmer, Dolby ([Press Release](/ken-mason-award/Curt-Behlmer-2017-KenMason.pdf))
+2017, Curt Behlmer, Dolby ([Press Release](./Curt-Behlmer-2017-KenMason.pdf))
 
-2016, Ted Costas, SGI QC ([Press Release](/ken-mason-award/Ted-Costas-2016-KenMason.pdf))
+2016, Ted Costas, SGI QC ([Press Release](./Ted-Costas-2016-KenMason.pdf))
 
-2015, Wendy Aylsworth, Warner Bros. ([Press Release](/ken-mason-award/Wendy-Aylsworth-2015-KenMason.pdf))
+2015, Wendy Aylsworth, Warner Bros. ([Press Release](./Wendy-Aylsworth-2015-KenMason.pdf))
 
-2014 Jack Kline, Christie ([Press Release](/ken-mason-award/Jack-Kline-2014-KenMason.pdf))
+2014 Jack Kline, Christie ([Press Release](./Jack-Kline-2014-KenMason.pdf))
 
 2013 Jack Cashin, USL
 
-2012 Jerry Pierce, ISDCF ([Press Release](/ken-mason-award/Jerry-Pierce-2012-KenMason.pdf))
+2012 Jerry Pierce, ISDCF ([Press Release](./Jerry-Pierce-2012-KenMason.pdf))
 
 2011 Sid Ganis, Academy of Motion Picture Arts and Sciences
 

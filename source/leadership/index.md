@@ -4,10 +4,6 @@ layout: page
 alias: intersociety-leadership/index.html
 ---
 
-## InterSociety Mission Statement
-
-*The Inter-Society for the Enhancement of Cinema Presentation, Inc. promotes interactive dialogue and information exchange between cinema-related entities with the goal of resolving issues affecting the overall cinema presentation.*
-
 ### Leadership
 
 The Inter-Society's Board of Directors are volunteers from across the entertainment industry
@@ -93,12 +89,12 @@ The Inter-Society's Board of Directors are volunteers from across the entertainm
 
 #### Executive Director Emeritus In Memoriam
 
-<a href="/memoriam/jerry-pierce/"><img class="headshot" src="./Jerry-Pierce.jpg" alt="Jerry Pierce"></a>
+<a href="../jerry-pierce/"><img class="headshot" src="./Jerry-Pierce.jpg" alt="Jerry Pierce"></a>
 
 **Jerry Pierce**
 *Chairman | ISDCF*
 
-[In Memoriam – Jerry Pierce](/memoriam/jerry-pierce/)
+[In Memoriam – Jerry Pierce](../memoriam/jerry-pierce/)
 
 #### CHAIRMAN EMERITI
 
@@ -113,7 +109,3 @@ Mark Christiansen, Paramount Pictures (2011 – 2013)
 John Pytlak, Eastman Kodak (2004 – 2007)
 
 J. Wayne Anderson, Anderson Consulting (2002 – 2004)
-
-## Bylaws of InterSociety
-
-These Bylaws were adopted in December of 2023. [I-S Bylaws Adopted 2023](/docs/I-S-Bylaws-2023-FINAL.pdf)
