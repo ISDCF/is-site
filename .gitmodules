@@ -1,0 +1,3 @@
+[submodule "themes/isdcf"]
+	path = themes/isdcf
+	url = https://github.com/ISDCF/isdcf-hexo-theme.git
