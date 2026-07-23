@@ -37,12 +37,13 @@ The Inter-Society's Board of Directors are volunteers from across the entertainm
 *Qube Cinema, Inc.*
 *(Term 2024-2026)*
 
-##### ISDCF Chair
+##### Executive Director
 
 <img class="headshot" src="./Pierre-Anthony-Lemieux.jpg" alt="Pierre-Anthony Lemieux">
 
 **Pierre-Anthony Lemieux**
 *Chair (Interim) | ISDCF*
+*Executive Director (Interim), Inter-society*
 
 #### Board Members
 
@@ -92,7 +93,8 @@ The Inter-Society's Board of Directors are volunteers from across the entertainm
 <a href="../jerry-pierce/"><img class="headshot" src="./Jerry-Pierce.jpg" alt="Jerry Pierce"></a>
 
 **Jerry Pierce**
-*Chairman | ISDCF*
+*Chair, ISDCF*
+*Executive Director, Inter-society*
 
 [In Memoriam – Jerry Pierce](../memoriam/jerry-pierce/)
 
