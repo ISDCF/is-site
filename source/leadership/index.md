@@ -60,7 +60,7 @@ The Inter-Society's Board of Directors are volunteers from across the entertainm
 *Sony Pictures Technology Development*
 *(Term 2026-2028)*
 
-<img class="headshot" src="./generic-head.png" alt="Kirk Griffin">
+<img class="headshot" src="./Kirk_Griffin12_25.jpg" alt="Kirk Griffin">
 
 **Kirk Griffin**
 *Director of Presentation Technologies*
