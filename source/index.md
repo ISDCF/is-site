@@ -9,7 +9,14 @@ layout: home
 
 ## History
 
-Founded in 1978 by Eastman Kodak VP Ken Mason, membership is composed of its four charter trade organizations—the International Cinema Technology Association (ICTA), the Motion Picture Association of America (MPAA), the National Association of Theatre Owners (NATO), and the Society of Motion Picture and Television Engineers (SMPTE)—along with over 40 member companies, made up of trade organizations, motion picture studios, exhibition companies, manufacturers, technical consultants and other industry stakeholders.
+Founded in 1978 by Eastman Kodak VP Ken Mason, membership is composed of its
+four charter trade organizations—the International Cinema Technology Association
+(ICTA), the Motion Picture Association of America (MPAA), Cinema United,
+formerly known as the National Association of Theatre Owners (NATO), and the
+Society of Motion Picture and Television Engineers (SMPTE)—along with over 40
+member companies, made up of trade organizations, motion picture studios,
+exhibition companies, manufacturers, technical consultants and other industry
+stakeholders.
 
 ## Industry impact
 
